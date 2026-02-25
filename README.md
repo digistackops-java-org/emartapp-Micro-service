@@ -1,2 +1,3 @@
 # emart-app
-<img width="1320" height="704" alt="image" src="https://github.com/user-attachments/assets/75e4c0ba-3d1d-4806-a970-b1593dff2375" />
+<img width="1301" height="699" alt="image" src="https://github.com/user-attachments/assets/37e665b0-595c-4c4b-8748-ec11c94e4d7b" />
+
